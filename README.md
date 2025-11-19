@@ -1,5 +1,5 @@
 
-# Northwind Sales Insights Chatbot (POC)
+# Northwind Sales Insights Chatbot 
 
 An end‑to‑end proof‑of‑concept that lets users ask natural‑language questions about the **Northwind** dataset and see answers as **tables and charts**.
 
